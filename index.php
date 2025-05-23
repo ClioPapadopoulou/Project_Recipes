@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 
 <?php
-require 'config.php'; //require __DIR__ . '/config.php';
+require 'config.php'; 
 
 
 // If user is already logged in, redirect to dashboard
